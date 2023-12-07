@@ -1,6 +1,10 @@
-# React + Vite
+# Personal Notes App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Personal Notes App is a submission for Dicoding task. Do not plagiarize this project, please use this as a reference.
+
+---
+
+This repository uses React + Vite template. The template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
 

@@ -70,7 +70,7 @@ class NoteApp extends React.Component {
     return (
       <div className="note-app">
         <header>
-          <h2 id="note-header" className="text-center">Personal Notes App</h2>
+          <h2 id="note-header" className="text-center">NoteX - Your Personal Notes App</h2>
         </header>
         <div id="content">
           <NoteInput addNote={this.onAddNoteHandler} />

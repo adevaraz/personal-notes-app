@@ -1,0 +1,14 @@
+#note-content {
+  width: inherit;
+}
+
+.note-list-header {
+  display: flex;
+  flex: row;
+  justify-content: space-between;
+}
+
+.change-note-view-button {
+  display: flex;
+  align-items: center;
+}

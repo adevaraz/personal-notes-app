@@ -1,0 +1,11 @@
+.note-list {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  width: inherit;
+}
+
+.empty-note {
+  font-family: inherit;
+  font-weight: lighter;
+  width: inherit;
+}

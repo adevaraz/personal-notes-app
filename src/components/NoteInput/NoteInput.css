@@ -1,0 +1,10 @@
+#text-title {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+#text-title>span {
+  font-weight: lighter;
+  font-size: 14px;
+}
